@@ -1,4 +1,4 @@
-#Metodo Congruencial Aditivo
+#1Metodo Congruencial Aditivo
 #Generar 7 numeros pseudo aleatorios entre cero y uno a partir de la 
 #siguiente secuencia de numeros enteros: 65,89,98,03,69; m=100
 def secuencia (numero,cnum):
