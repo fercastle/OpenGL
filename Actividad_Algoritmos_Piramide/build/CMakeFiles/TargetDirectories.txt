@@ -1,0 +1,1 @@
+/home/fernando/Actividad_Algoritmos_Piramide/build/CMakeFiles/hello.dir
