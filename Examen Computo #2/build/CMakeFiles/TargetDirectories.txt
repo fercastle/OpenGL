@@ -1,0 +1,1 @@
+/home/fernando/Escritorio/Tatita/Guia Practica #1 Segundo computo/Examen Computo #2/build/CMakeFiles/hello.dir

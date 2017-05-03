@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fernando/Escritorio/Tatita/Guia Practica #1 Segundo computo/Examen Computo #2/main.cpp
+stdio.h
+-
+GL/gl.h
+-
+GL/glut.h
+-
+
