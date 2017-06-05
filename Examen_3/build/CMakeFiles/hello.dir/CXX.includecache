@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fernando/Escritorio/Texturas/Uso de Shadow1/main.cpp
+GL/gl.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+
