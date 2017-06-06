@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/fernando/Escritorio/Texturas/Uso de Shadow1/main.cpp" "/home/fernando/Escritorio/Texturas/Uso de Shadow1/build/CMakeFiles/hello.dir/main.cpp.o"
+  "/home/fernando/Escritorio/Texturas/Examen_3/main.cpp" "/home/fernando/Escritorio/Texturas/Examen_3/build/CMakeFiles/hello.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

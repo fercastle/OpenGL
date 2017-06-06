@@ -1,4 +1,4 @@
-# Install script for directory: /home/fernando/Escritorio/Texturas/Uso de Shadow1
+# Install script for directory: /home/fernando/Escritorio/Texturas/Examen_3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ else()
   set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 endif()
 
-file(WRITE "/home/fernando/Escritorio/Texturas/Uso de Shadow1/build/${CMAKE_INSTALL_MANIFEST}" "")
+file(WRITE "/home/fernando/Escritorio/Texturas/Examen_3/build/${CMAKE_INSTALL_MANIFEST}" "")
 foreach(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  file(APPEND "/home/fernando/Escritorio/Texturas/Uso de Shadow1/build/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  file(APPEND "/home/fernando/Escritorio/Texturas/Examen_3/build/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 endforeach()

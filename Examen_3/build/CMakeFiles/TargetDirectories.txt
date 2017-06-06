@@ -1,1 +1,1 @@
-/home/fernando/Escritorio/Texturas/Uso de Shadow1/build/CMakeFiles/hello.dir
+/home/fernando/Escritorio/Texturas/Examen_3/build/CMakeFiles/hello.dir
